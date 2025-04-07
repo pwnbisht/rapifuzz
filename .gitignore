@@ -1,0 +1,6 @@
+.qodo
+migrations/
+# .env
+venv/
+__pycache__/
+db.sqlite3
