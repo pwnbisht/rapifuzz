@@ -1,0 +1,7 @@
+Django==5.2
+djangorestframework==3.16.0
+django-environ
+pytz
+djangorestframework-simplejwt
+django-cors-headers
+gunicorn
